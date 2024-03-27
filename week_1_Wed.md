@@ -6,15 +6,15 @@
 
 The below is the note template.
 
-## Week X: [Topic Name]
+## Week 1: [Github, Git]
 
-### Date: [Date]
+### Date: [3/27/2024]
 
 ## Key Concepts
 
 - List of important concepts covered in the lecture.
-  - Concept 1
-  - Concept 2
+  - GitHub basics
+  - Git - repos, pushing, pulling 
   - ...
 
 ## Code Snippets
