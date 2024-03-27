@@ -29,7 +29,7 @@ public static void foo(int[] array) {
 
 ## Questions (Things I didn't understand)
 
-- What's a variabe?
+- how to use git to push to idea so editing side by side
   - Notes:
   - To be resolved by: end of 2nd week by talking to the teacher after lecture.
 - ... 
